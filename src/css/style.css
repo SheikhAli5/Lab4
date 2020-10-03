@@ -1,0 +1,13 @@
+.picture{
+    width: 20%;
+    height: auto;
+}
+.imag{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+img{
+    width: 20%;
+    height: auto;
+}
